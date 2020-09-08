@@ -7,5 +7,5 @@
 ## Technologies
 
 * HTML
-* Javascript
+* Javascript (NodeJS)
 
